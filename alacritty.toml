@@ -2,6 +2,14 @@
 foreground = "#ffffff"
 background = "#240037"
 
+[colors.cursor]
+text ="#03edf9"
+cursor = "#ff00ff"
+
+[colors.vi_mode_cursor]
+text ="#03edf9"
+cursor = "#ffff66"
+
 [colors.normal]
 black = "#262335"
 red = "#ff0040"
