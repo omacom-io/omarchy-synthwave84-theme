@@ -3,11 +3,11 @@ foreground = "#ffffff"
 background = "#240037"
 
 [colors.cursor]
-text ="#03edf9"
+text ="#ffffff"
 cursor = "#ff00ff"
 
 [colors.vi_mode_cursor]
-text ="#03edf9"
+text ="#ffffff"
 cursor = "#ffff66"
 
 [colors.normal]
