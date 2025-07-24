@@ -29,10 +29,10 @@ theme[meter_bg]="#240037"
 theme[proc_misc]="#8f00ff"
 
 # CPU, Memory, Network, Proc box outline colors
-theme[cpu_box]="#8f00ff" #Hot Pink
-theme[mem_box]="#df00ff" #Cyan
-theme[net_box]="#8f00ff" #Neon Pink
-theme[proc_box]="#df00ff" #Electric Purple
+theme[cpu_box]="#ff007f" #Hot Pink
+theme[mem_box]="#00ffff" #Cyan
+theme[net_box]="#fe347e" #Neon Pink
+theme[proc_box]="#8f00ff" #Electric Purple
 
 # Box divider line and small boxes line color
 theme[div_line]="#8f00ff"
