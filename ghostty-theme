@@ -1,0 +1,33 @@
+# Synthwave '84 Theme for Ghostty
+
+# Background and foreground colors
+background = #240037
+foreground = #ffffff
+
+# Cursor colors
+cursor-color = #ff00ff
+cursor-text = #eff1f5
+
+# Selection colors
+selection-background = #ff00ff
+selection-foreground = #eff1f5
+
+# Standard colors
+palette = 0=#262335
+palette = 1=#ff0040
+palette = 2=#8f00ff
+palette = 3=#f3e70f
+palette = 4=#0080ff
+palette = 5=#ff00ff
+palette = 6=#03edf9
+palette = 7=#ffffff
+
+# Bright colors
+palette = 8=#614d85
+palette = 9=#fe5442
+palette = 10=#fe5442
+palette = 11=#ffff66
+palette = 12=#0080ff
+palette = 13=#ff7edb
+palette = 14=#03edf9
+palette = 15=#ffffff
